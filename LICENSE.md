@@ -4,13 +4,13 @@ This license grants a limited right to use the script and does not transfer owne
 
 
 
-**Permitted Uses**,
+**Permitted Uses,**
 You are permitted to:
 - Use the script in Pet Simulator 99 (Roblox).
 - Run and integrate the script according to the author's instructions (if any).
 
 
-**Restrictions**,
+**Restrictions,**
 You may not:
 - Modify, adapt, translate, reverse engineer, or create derivative works from the script.
 - Sell, license, rent, lease, or otherwise monetize the script.
