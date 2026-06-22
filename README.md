@@ -4,8 +4,8 @@ This is a script I created for people playing the latest Pet Simulator 99 update
 
 Thanks for reading and have fun using it!
 
-Discord for collaborations: mitzci0
-- Spam messages will be blocked!
+
+Discord for collaborations: **mitzci0** - Spam messages will be blocked!
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/Script.lua"))()
