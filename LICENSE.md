@@ -1,6 +1,6 @@
 Copyright © 2026 mitzci0
 
-Use and run this script in Pet Simulator 99. This license grants a limited right to use the script and does not transfer ownership or any other intellectual property rights.
+This license grants a limited right to use the script and does not transfer ownership or any other intellectual property rights.
 
 
 **Permitted Uses**
