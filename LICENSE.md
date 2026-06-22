@@ -25,4 +25,6 @@ You may not:
 **Disclaimer**
 - The script is provided without any warranty of any kind, either express or implied. The copyright holder shall not be liable for any claims, damages, or other liabilities arising from the use of the script.
 
+
+
 By using the script, you agree to the terms of this license.
