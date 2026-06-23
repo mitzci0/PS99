@@ -243,7 +243,7 @@ function Reaper:CreateWindow(options)
 	titleText.TextSize = 13
 	titleText.TextXAlignment = Enum.TextXAlignment.Left
 	titleText.TextColor3 = Theme.TitleMuted
-	titleText.Text = "Pet Simulator 99  |  " .. (options.LoadingSubtitle or "Deep Backrooms") .. "      |  Made with Love by mitzci0 <3"
+	titleText.Text = "Pet Simulator 99  |  " .. ("Deep Backrooms") .. "      |  Made with Love by mitzci0 <3"
 	titleText.Parent = titleBar
 
 	local function makeWinBtn(text, xOff)
