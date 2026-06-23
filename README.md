@@ -25,4 +25,5 @@ and much more...
 
 I'm trying to get this script published on RScripts!
 
-Thanks for reading and have fun using it!
+
+**Thanks for reading and have fun using it!**
