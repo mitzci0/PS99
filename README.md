@@ -2,7 +2,7 @@
 -- The scripts I create are not verified by any Roblox scripting website! --
 
 
-- Anyone can view the scripts, however, I advise you to read the **LICENSE.md** file.
+- Anyone can view the scripts, however, I advise you to read the **LICENSE** file.
 - Those who do not cooperate will be penalized in other ways.
 
 
