@@ -7,6 +7,6 @@ Those who do not cooperate will be penalized in other ways.
 
 Thanks for reading and have fun using it!
 
-
+-
 
 Discord for collabs: **mitzci0** - Spam messages will be blocked!
