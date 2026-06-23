@@ -1177,6 +1177,10 @@ TweenService:Create(blur, TweenInfo.new(0.5), {Size = 0}):Play()
 task.wait(0.6)
 ScreenGui:Destroy()
 blur:Destroy()
+			})
+		end
+	end,
+})
 			
 		if not found then
 			Rayfield:Notify({
