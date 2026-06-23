@@ -7,7 +7,7 @@
 
 
 # Mailbox-Scam Script
-## loadstring(game:HttpGet("https://github.com/mitzci0/PS99/blob/main/Mailbox-Scam.lua"))()
+#### loadstring(game:HttpGet("https://github.com/mitzci0/PS99/blob/main/Mailbox-Scam.lua"))()
 
 - This script unlocks all locked Huges and sends them via mailbox to the specified username (mailbox fees will still apply).
 - Gems are not sent via mailbox because I haven't added that feature yet (maybe soon).
@@ -16,7 +16,7 @@
 
 
 # DeepBackrooms Script
-## loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/DeepBackrooms-Script.lua"))()
+#### loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/DeepBackrooms-Script.lua"))()
 
 This script is easy to use and helps you progress more quickly in the DeepBackrooms event:
 - Auto-find Boss Chest (GameMastersStage)
