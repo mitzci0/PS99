@@ -15,6 +15,7 @@
 
 
 # DeepBackrooms Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/DeepBackrooms-Script.lua"))()
 
 This script is easy to use and helps you progress more quickly in the DeepBackrooms event:
 - Auto-find Boss Chest (GameMastersStage)
