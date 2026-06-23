@@ -971,8 +971,8 @@ BreakablesRoomTPButton = MiniBossTab:CreateButton({
 			end
 		end
 			
-	if not (game.UserInputService.TouchEnabled) then
-    game:GetService("CoreGui"):ClearAllChildren()
+if not (game.UserInputService.TouchEnabled) then
+game:GetService("CoreGui"):ClearAllChildren()
 end
 
 task.spawn(function()
