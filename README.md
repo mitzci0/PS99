@@ -19,7 +19,7 @@
 This script is easy to use and helps you progress more quickly in the DeepBackrooms event:
 - Auto-find Boss Chest (GameMastersStage)
 - Auto-find Anomaly Egg (x250)
-and much more...
+  and much more...
 
 I'm trying to get this script published on RScripts!
 
