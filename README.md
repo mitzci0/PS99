@@ -1,11 +1,12 @@
--- This is not an officially verified script from any Roblox script site! --
+-- The scripts I create are not verified by any Roblox scripting website! --
 
-This is a script I created for people playing the latest Pet Simulator 99 update (Deep Backrooms). It automatically farms the boss chest, and if it's broken and will respawn in 3 minutes, the script farms the best egg on the server until the chest respawns.
+
+Anyone can view the scripts, however, I advise you to read the **LICENSE.md** file.
+Those who do not cooperate will be penalized in other ways.
+
 
 Thanks for reading and have fun using it!
 
 
-Discord for collaborations: **mitzci0** - Spam messages will be blocked!
 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/Script.lua"))()
+Discord for collabs: **mitzci0** - Spam messages will be blocked!
