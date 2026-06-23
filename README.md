@@ -7,7 +7,6 @@
 
 
 # Mailbox-Scam Script
--- This is not a verified script from any Roblox script website --
 
 - This script unlocks all locked Huges and sends them via mailbox to the specified username (mailbox fees will still apply).
 - Gems are not sent via mailbox because I haven't added that feature yet (maybe soon).
@@ -16,7 +15,6 @@
 
 
 # DeepBackrooms Script
--- This is not a verified script from any Roblox scripting website --
 
 This script is easy to use and helps you progress more quickly in the DeepBackrooms event:
 - Auto-find Boss Chest (GameMastersStage)
