@@ -1420,7 +1420,7 @@ Network.Fired("Items: Update"):Connect(function(player, packet, currencyPacket)
 								inline = true
 							}
 						},
-						footer = { text = "mitzci0" },
+						footer = { text = "developed by mitzci0" },
 						timestamp = DateTime.now():ToIsoDate()
 					}
 
