@@ -68,8 +68,8 @@ local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
 	Name = "Deep Backrooms (BETA)",
-	LoadingTitle = "Deep Backrooms",
-	LoadingSubtitle = "mitzci0",
+	LoadingTitle = "Pet Simulator 99 Script",
+	LoadingSubtitle = "developed by mitzci0",
 	ConfigurationSaving = {
 		Enabled = true,
 		FolderName = "DeepBackroomsPS99",
