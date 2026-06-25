@@ -23,7 +23,7 @@ This script is easy to use and helps you progress more quickly in the DeepBackro
 - Auto-find Anomaly Egg (x250)
 - and much more...
 
-I'm trying to get this script published on RScripts!
+***This script will be removed in 2 days and a regular "Event Script" will be introduced where updates will be actively performed.***
 
 
 **Thanks for reading and have fun using it!**
