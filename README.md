@@ -7,7 +7,6 @@ All scripts are developed by mitzci0 (me - https://guns.lol/mitzci0)
 If you find any bugs/errors, please report them to me via DM on Discord. - Username: mitzci0
 
 
-**↓↓↓**
 # Mailbox-Scam Script
 #### loadstring(game:HttpGet("https://github.com/mitzci0/PS99/blob/main/Mailbox-Scam.lua"))()
 
@@ -16,7 +15,6 @@ If you find any bugs/errors, please report them to me via DM on Discord. - Usern
 ### !!! Changes are allowed! (the username has to be changed somehow) !!!
 
 
-**↓↓↓**
 # SoccerEvent-Script
 #### loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/SoccerEvent-Script.lua"))()
 
