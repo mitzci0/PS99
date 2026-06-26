@@ -1,11 +1,11 @@
 # Generally
 ═══════════════════════════════════════════════════════════════════════════════
-  The scripts I create are not verified by any Roblox scripting website!
-  
-  All scripts are developed by mitzci0 (me)
-  
-  If you find any bugs/errors, please report them to me via DM on Discord.
-  Username: mitzci0
+The scripts I create are not verified by any Roblox scripting website!
+
+All scripts are developed by mitzci0 (me)
+
+If you find any bugs/errors, please report them to me via DM on Discord.
+Username: mitzci0
 ═══════════════════════════════════════════════════════════════════════════════
 
 
