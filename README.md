@@ -1,13 +1,11 @@
 # Generally
-══════════════════════════════════════════════════════════════════════════
-The scripts I create are not verified by any Roblox scripting website!
+-- The scripts I create are not verified by any Roblox scripting website! --
 - I will try to publish most of the scripts on RScripts.
 
 All scripts are developed by mitzci0 (me - https://guns.lol/mitzci0)
 
 If you find any bugs/errors, please report them to me via DM on Discord.
 Username: mitzci0
-══════════════════════════════════════════════════════════════════════════
 
 
 **↓↓↓**
