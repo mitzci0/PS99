@@ -12,8 +12,8 @@
 **!!! This is the only script I allow Changes to; everything else remains prohibited as stated in the license. !!!**
 
 **-**
-# Event Script
-#### loadstring = Comming Soon...
+# SoccerEvent-Script
+#### loadstring(game:HttpGet("https://raw.githubusercontent.com/mitzci0/PS99/refs/heads/main/SoccerEvent-Script.lua"))()
 
 This is an easy-to-use script, it receives active updates. If you find any bugs, please add me on Discord and message me: **mitzci0**
 Features:
