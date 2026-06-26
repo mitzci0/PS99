@@ -1,6 +1,6 @@
 # Generally
 -- The scripts I create are not verified by any Roblox scripting website! --
-- I will try to publish most of the scripts on RScripts.
+(I will try to publish most of the scripts on RScripts.)
 
 All scripts are developed by mitzci0 (me - https://guns.lol/mitzci0)
 
