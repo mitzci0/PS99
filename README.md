@@ -4,8 +4,7 @@
 
 All scripts are developed by mitzci0 (me - https://guns.lol/mitzci0)
 
-If you find any bugs/errors, please report them to me via DM on Discord.
-Username: mitzci0
+If you find any bugs/errors, please report them to me via DM on Discord. - Username: mitzci0
 
 
 **↓↓↓**
